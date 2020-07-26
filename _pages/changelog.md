@@ -4,62 +4,58 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
-
-<br>
-
 ### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+## **version 1.0.6**
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- 自動で一時停止になることがある不具合を修正しました。
+- その他の細かい修正を行いました。
 
 <br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+## **Version 1.0.5**
+
+#### Bug Fixes
+- 休憩時間中にボタンが表示されない不具合を修正しました。
+- その他の細かい修正を行いました。
+
+<br>
+
+## **Version 1.0.4**
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- URLスキームに対応しました。
+
+#### Bug Fixes
+- 設定画面でアプリが落ちる不具合を修正しました。
+- その他の細かい修正を行いました。
 
 <br>
 
-________
+## **Version 1.0.3**
+
+#### What's New
+- 現在カウントダウン中の時間割が表示されるようになりました。
+
+#### Bug Fixes
+- 時間割終了時にボイスが鳴らない不具合を修正しました。
+- 時間割終了時のボタンの表示ミスを修正しました。
+- その他の細かい修正を行いました。
+
+<br>
+
+## **Version 1.0.2**
+
+#### What's New
+- アラームと同時にバイブレーションでお知らせする機能を追加しました。
+
+#### Bug Fixes
+- タイマーの精度が向上しました。
+- 円ゲージの動きが滑らかになりました。
+- 一部の音声が鳴らないバグを修正しました。
+- その他の細かい修正を行いました。
+
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
-
-<br>
-
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
-
-<br>
+## **Version 1.0**
